@@ -1,0 +1,6 @@
+{
+  "name": "OnlyHelper",
+  "description": "OnlyFans Chatters assistant with Gemini 1.5 Pro.",
+  "requestFramePermissions": ["display-capture"],
+  "majorCapabilities": []
+}
